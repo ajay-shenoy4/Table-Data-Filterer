@@ -1,18 +1,3 @@
-///////////////////////// TOP OF FILE COMMENT BLOCK ////////////////////////////
-//
-// Title:           CSV File Data Manipulator Test
-// Course:          CS 200, Summer 2024
-//
-// Author:          Ajay Shenoy
-// Email:           ashenoy3@wisc.edu
-// Lecturer's Name: Jim Williams
-//
-///////////////////////////////// CITATIONS ////////////////////////////////////
-//
-// No citations used.
-//
-/////////////////////////////// 80 COLUMNS WIDE ////////////////////////////////
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
@@ -32,7 +17,6 @@ import java.util.NoSuchElementException;
  * All the test cases within the testH12CustomApp method should be changed to test the
  * methods in your H12CustomApp class.
  *
- * @author Jim Williams
  * @author Ajay Shenoy
  */
 public class TestH12CustomApp {
